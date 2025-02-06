@@ -1,2 +1,2 @@
 ### JOGO - NMK ###
-Projeto feito na faculdade, tendo base um jogo do galo porém com infinitas dimensões, e sendo K o numero de brancas ou pretas que devem estar em sequencia para que o jogo acabe 
+NMK é uma versão generalizada do Jogo do Galo, jogada em um tabuleiro de N × M casas, onde K define o número de peças consecutivas necessárias para vencer. Dois jogadores se alternam colocando suas peças (1 ou -1) em posições livres, tentando formar uma linha de K peças seguidas na horizontal, vertical ou diagonal. O jogador que escolheu 1 sempre começa. 
